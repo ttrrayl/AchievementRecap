@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">Achievement Recapitulation</string>
+    <string name="detail_prestasi">Detail Prestasi</string>
+    <string name="kesan">Kesan :</string>
+    <string name="kendala">Kendala :</string>
+    <string name="saran">Saran :</string>
+    <string name="lihat_profile">lihat profile</string>
+    <string name="peringkat">Peringkat :</string>
+    <string name="nama_event">Nama Event :</string>
+    <string name="profil_saya">Profil Saya</string>
+    <string name="nama">TRI AYUNIA PATMA LUBIS</string>
+    <string name="email">triayuniapatma@gmail.com</string>
+    <string name="share_achievement">Share Achievement</string>
+
+    <string-array name="data_peringkat">
+        <item>Peringkat 1</item>
+        <item>Peringkat 3</item>
+        <item>Peringkat 2</item>
+        <item>Peringkat 5</item>
+        <item>Peringkat 7</item>
+        <item>Peringkat 1</item>
+        <item>Peringkat 3</item>
+        <item>Peringkat 11</item>
+        <item>Peringkat 10</item>
+        <item>Peringkat 4</item>
+    </string-array>
+
+    <string-array name="data_tanggal">
+        <item>01/03/2023</item>
+        <item>04/03/2023</item>
+        <item>06/03/2023</item>
+        <item>07/03/2023</item>
+        <item>11/03/2023</item>
+        <item>15/03/2023</item>
+        <item>16/03/2023</item>
+        <item>19/03/2023</item>
+        <item>21/03/2023</item>
+        <item>26/03/2023</item>
+    </string-array>
+
+    <string-array name="data_kegiatan">
+        <item>Perlombaan cerdas cermat</item>
+        <item>Pertandingan basket tingkat provinsi sumatera utara</item>
+        <item>Perlombaan tarik tambang</item>
+        <item>Olimpiade matematika</item>
+        <item>Perlombaan cerdas cermat</item>
+        <item>Olimpiade matematika</item>
+        <item>Juara kelas</item>
+        <item>Olimpiade MIPA</item>
+        <item>Perlombaan tangkap belut</item>
+        <item>Juara kelas</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/piala1</item>
+        <item>@drawable/download</item>
+        <item>@drawable/piala9</item>
+        <item>@drawable/piala8</item>
+        <item>@drawable/piala7</item>
+        <item>@drawable/piala6</item>
+        <item>@drawable/piala5</item>
+        <item>@drawable/piala4</item>
+        <item>@drawable/piala3</item>
+        <item>@drawable/piala2</item>
+    </integer-array>
+
+    <string-array name="data_kesan">
+        <item>Perlombaannya sangat sengit, aku hampir saja tidak memenangkan lomba. untungnya teman satu tim ku sangat hebat hingga kami bisa menang</item>
+        <item>Sangat seru walaupun aku hanya bermain sebentar. Ini adalah pertandingan perdana ku, banyak sekali suporter yg datang hari ini </item>
+        <item>Rasanya tanganku sangat sakit sehingga aku harus mengobati nya tapi untung saja tim ku bisa menang sehingga rasa sakit ini bisa sedikit terobati</item>
+        <item>Soal yg keluar benar benar diluar dugaan, aku hampir saja pasrah saat ada 1 soal yg tak aku pahami. namun karena doa dari orang orang baik, akhirnya aku bisa mengerjakannya</item>
+        <item>my brain literally so sick after that competition, my team doesnt have good perfome today but im so grateful for this</item>
+        <item>mathematic already be my best friend and also my soulmate hihi. so when i can solve it, i will try my best</item>
+        <item>i dont think that i can get it. i just hear what teacher said and dont take night study. but i got this one omg</item>
+        <item>ipa is not so scary, i think ipa too bored but its so challenging for me</item>
+        <item>belutnya licin buangett loh, agak jijik tpi demi seperangkat alat sholat dibayar tunai sah sah</item>
+        <item>omg i got it again, im so bored to go up to the podium. haih my brain is so genius and i can stop it</item>
+    </string-array>
+
+    <string-array name="data_kendala">
+        <item>i forget to study lastnight so aku jd beban tim hihi</item>
+        <item>after the league i smell something not good among my teammate</item>
+        <item>hoenstly im so weak for this one but no one can do this. so i dont have any prepare for this so i get hard on it</item>
+        <item>aku lupa rumus ni , untung bengong jd bsa keinget</item>
+        <item>my team dont prepare well for this</item>
+        <item>i forget to bring eraser so it bother my focus</item>
+        <item>my friend dont believe that i got it</item>
+        <item>i just learn for ipa and forget mtk so i forget the rumus a little</item>
+        <item>its my first time so i geli geli tak tentu pas pegangnya</item>
+        <item>my parent afraid that i pay someone to get this</item>
+    </string-array>
+
+    <string-array name="data_saran">
+        <item>aku harus banyak belajar</item>
+        <item>i will give them the parfume one by one </item>
+        <item>if my classmate suruh i do it again, i will run so fast because tak like</item>
+        <item>i will remember the rumus nicely and perfectly</item>
+        <item>i will do meeting group to check if my team prepare well before the day</item>
+        <item>i will bring eraser everywhere i go</item>
+        <item>i never hear what people say</item>
+        <item>i must focus for all of the things that will face me</item>
+        <item>i will join next competition because its so fun</item>
+        <item>its horrible, i dont know what should i do</item>
+    </string-array>
+</resources>
